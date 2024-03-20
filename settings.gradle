@@ -1,0 +1,4 @@
+rootProject.name = 'trading-community'
+include 'community-api-server'
+include 'community-auth-server'
+include 'infrastructure'
